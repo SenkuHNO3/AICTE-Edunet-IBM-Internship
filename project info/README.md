@@ -101,10 +101,3 @@ Interested in improving the project?
 - Fork this repo, create a branch for your changes, and open a pull request.
 - Please file issues or feature requests in the Issues tab.
 
-## License
-
-Distributed under the MIT License. See `LICENSE` file for details.
-
-**Inspired by AICTE-Edunet-IBM-Internship and Agentic AI on IBM Cloud reference projects.**
-
-> _Update your README with screenshots, sample chat logs, diagrams, and a direct link to your live demo as you go!_
