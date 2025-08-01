@@ -4,7 +4,9 @@ A conversational AI agent that streamlines the college admission process by answ
 
 ## Demo Screenshots
 
-<img src="./certificates/QuantumComputing/dash.png" alt="Quantum Computing" width="50%">
+<img src="https://github.com/SenkuHNO3/AICTE-Edunet-IBM-Internship/blob/2c71b2c89678fcebdaeab4754f700ac7fe941e4d/project%20info/preview.png" alt="" width="50%">
+<img src="https://github.com/SenkuHNO3/AICTE-Edunet-IBM-Internship/blob/2c71b2c89678fcebdaeab4754f700ac7fe941e4d/project%20info/ex1.png" alt="" width="50%">
+<img src="https://github.com/SenkuHNO3/AICTE-Edunet-IBM-Internship/blob/2c71b2c89678fcebdaeab4754f700ac7fe941e4d/project%20info/ex2.png" alt="" width="50%">
 
 ## Table of Contents
 
@@ -19,9 +21,6 @@ A conversational AI agent that streamlines the college admission process by answ
   - [5. Vector Index Creation and Knowledge Base Upload](#5-vector-index-creation-and-knowledge-base-upload)
   - [6. Agent Customization, Tools, and Testing](#6-agent-customization-tools-and-testing)
   - [7. Deployment and API Access](#7-deployment-and-api-access)
-- [How It Works](#how-it-works)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
