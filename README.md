@@ -13,4 +13,4 @@ Certificates earned during the IBM Skills Build Internship:
 
 ## Project Overview
 
-This repository documents the project undertaken as part of the internship. For more details, refer to the [Project Info](./project-info/README.md) section.
+This repository documents the project undertaken as part of the internship. For more details, refer to the [Project Info](project-info/README.md) section.
