@@ -6,8 +6,8 @@ Welcome to the repository for the IBM Skills Build Internship conducted by AICTE
 
 Certificates earned during the IBM Skills Build Internship:
 
-- <img src="./certificates/Getting satrted with AI" alt="Getting satrted with AI" width="50%">
-- <img src="./certificates/DevOps%20for%20Enterprise%20Business%20Agility/DevOps_for_Enterprise_Business_Agility_Badge20240705-7-3wftw2_page-0001.jpg" alt="DevOps for Enterprise Business Agility" width="50%">
+- <img src="certificates/Getting started with AI.png" alt="Getting satrted with AI" width="50%">
+- <img src="" alt="DevOps for Enterprise Business Agility" width="50%">
 - <img src="./certificates/Journey%20to%20Cloud:%20Envisioning%20Your%20Solution/Journey_to_Cloud__Envisioning_Your_Solution_Badge20240625-6-tznsi5_page-0001.jpg" alt="Journey to Cloud: Envisioning Your Solution" width="50%">
 - <img src="./certificates/QuantumComputing/dash.png" alt="Quantum Computing" width="50%">
 
