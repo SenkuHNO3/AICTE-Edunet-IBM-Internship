@@ -4,7 +4,7 @@ A conversational AI agent that streamlines the college admission process by answ
 
 ## Demo Screenshots
 
-*(Add screenshots of your chatbot interface or conversation samples here)*
+<img src="./certificates/QuantumComputing/dash.png" alt="Quantum Computing" width="50%">
 
 ## Table of Contents
 
