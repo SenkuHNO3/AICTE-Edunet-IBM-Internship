@@ -13,4 +13,4 @@ Certificates earned during the IBM Skills Build Internship:
 
 ## Project Overview
 
-This repository documents the project undertaken as part of the internship. For more details, refer to the [Project Info](https://github.com/SenkuHNO3/AICTE-Edunet-IBM-Internship/blob/6bfcaf43e29cbef307d0431ba31990e7ee066067/project%20info/README.md) section.
+This repository documents the project undertaken as part of the internship. For more details, refer to the [Project Info](https://github.com/SenkuHNO3/AICTE-Edunet-IBM-Internship/blob/6bfcaf43e29cbef307d0431ba31990e7ee066067/project%20info/README.md) section and [ipynb file]().
